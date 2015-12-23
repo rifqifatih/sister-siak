@@ -1,0 +1,1 @@
+Edit yang di folder `pages/` aja.
